@@ -1,0 +1,12 @@
+/home/ubuntu/box_bot_ws/src/box_bot_pkg/install/box_bot_pkg/share/box_bot_pkg/launch/box_bot_launch.launch.py
+/home/ubuntu/box_bot_ws/src/box_bot_pkg/install/box_bot_pkg/share/box_bot_pkg/launch/box_bot_meshes_launch.launch.py
+/home/ubuntu/box_bot_ws/src/box_bot_pkg/install/box_bot_pkg/share/box_bot_pkg/meshes/cute_cube.dae
+/home/ubuntu/box_bot_ws/src/box_bot_pkg/install/box_bot_pkg/share/box_bot_pkg/meshes/lambert3_baseColor.png
+/home/ubuntu/box_bot_ws/src/box_bot_pkg/install/box_bot_pkg/share/box_bot_pkg/meshes/textures/lambert3_baseColor.png
+/home/ubuntu/box_bot_ws/src/box_bot_pkg/install/box_bot_pkg/share/box_bot_pkg/meshes/sensors/realsense.dae
+/home/ubuntu/box_bot_ws/src/box_bot_pkg/install/box_bot_pkg/share/box_bot_pkg/meshes/sensors/rplidartexture.png
+/home/ubuntu/box_bot_ws/src/box_bot_pkg/install/box_bot_pkg/share/box_bot_pkg/meshes/sensors/rplidar.dae
+/home/ubuntu/box_bot_ws/src/box_bot_pkg/install/box_bot_pkg/share/box_bot_pkg/meshes/cute_cube.blend
+/home/ubuntu/box_bot_ws/src/box_bot_pkg/install/box_bot_pkg/share/box_bot_pkg/models/box_bot_meshes_urdf.urdf
+/home/ubuntu/box_bot_ws/src/box_bot_pkg/install/box_bot_pkg/share/box_bot_pkg/models/box_bot.urdf
+/home/ubuntu/box_bot_ws/src/box_bot_pkg/install/box_bot_pkg/share/box_bot_pkg/rviz/urdf_config.rviz

@@ -1,0 +1,53 @@
+[0.016s] Invoking command in '/home/ubuntu/box_bot_ws/src/box_bot_pkg/build/box_bot_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake /home/ubuntu/box_bot_ws/src/box_bot_pkg -DCMAKE_INSTALL_PREFIX=/home/ubuntu/box_bot_ws/src/box_bot_pkg/install/box_bot_pkg
+[0.642s] -- The C compiler identification is GNU 9.4.0
+[1.191s] -- The CXX compiler identification is GNU 9.4.0
+[1.200s] -- Check for working C compiler: /usr/bin/cc
+[1.288s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.290s] -- Detecting C compiler ABI info
+[1.379s] -- Detecting C compiler ABI info - done
+[1.392s] -- Detecting C compile features
+[1.393s] -- Detecting C compile features - done
+[1.400s] -- Check for working CXX compiler: /usr/bin/c++
+[1.487s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[1.488s] -- Detecting CXX compiler ABI info
+[1.586s] -- Detecting CXX compiler ABI info - done
+[1.599s] -- Detecting CXX compile features
+[1.599s] -- Detecting CXX compile features - done
+[1.602s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[1.633s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[1.633s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.878s] -- Found urdf: 2.4.0 (/opt/ros/foxy/share/urdf/cmake)
+[1.946s] -- Found xacro: 2.0.7 (/opt/ros/foxy/share/xacro/cmake)
+[1.947s] -- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[2.033s] -- Configuring done
+[2.035s] -- Generating done
+[2.037s] -- Build files have been written to: /home/ubuntu/box_bot_ws/src/box_bot_pkg/build/box_bot_pkg
+[2.046s] Invoked command in '/home/ubuntu/box_bot_ws/src/box_bot_pkg/build/box_bot_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake /home/ubuntu/box_bot_ws/src/box_bot_pkg -DCMAKE_INSTALL_PREFIX=/home/ubuntu/box_bot_ws/src/box_bot_pkg/install/box_bot_pkg
+[2.049s] Invoking command in '/home/ubuntu/box_bot_ws/src/box_bot_pkg/build/box_bot_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/ubuntu/box_bot_ws/src/box_bot_pkg/build/box_bot_pkg -- -j4 -l4
+[2.105s] Invoked command in '/home/ubuntu/box_bot_ws/src/box_bot_pkg/build/box_bot_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/ubuntu/box_bot_ws/src/box_bot_pkg/build/box_bot_pkg -- -j4 -l4
+[2.149s] Invoking command in '/home/ubuntu/box_bot_ws/src/box_bot_pkg/build/box_bot_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/ubuntu/box_bot_ws/src/box_bot_pkg/build/box_bot_pkg
+[2.159s] -- Install configuration: ""
+[2.159s] -- Installing: /home/ubuntu/box_bot_ws/src/box_bot_pkg/install/box_bot_pkg/share/box_bot_pkg/config
+[2.160s] -- Installing: /home/ubuntu/box_bot_ws/src/box_bot_pkg/install/box_bot_pkg/share/box_bot_pkg/launch
+[2.160s] -- Installing: /home/ubuntu/box_bot_ws/src/box_bot_pkg/install/box_bot_pkg/share/box_bot_pkg/launch/box_bot_launch.launch.py
+[2.160s] -- Installing: /home/ubuntu/box_bot_ws/src/box_bot_pkg/install/box_bot_pkg/share/box_bot_pkg/launch/box_bot_meshes_launch.launch.py
+[2.160s] -- Installing: /home/ubuntu/box_bot_ws/src/box_bot_pkg/install/box_bot_pkg/share/box_bot_pkg/maps
+[2.160s] -- Installing: /home/ubuntu/box_bot_ws/src/box_bot_pkg/install/box_bot_pkg/share/box_bot_pkg/meshes
+[2.160s] -- Installing: /home/ubuntu/box_bot_ws/src/box_bot_pkg/install/box_bot_pkg/share/box_bot_pkg/meshes/cute_cube.dae
+[2.160s] -- Installing: /home/ubuntu/box_bot_ws/src/box_bot_pkg/install/box_bot_pkg/share/box_bot_pkg/meshes/lambert3_baseColor.png
+[2.161s] -- Installing: /home/ubuntu/box_bot_ws/src/box_bot_pkg/install/box_bot_pkg/share/box_bot_pkg/meshes/textures
+[2.161s] -- Installing: /home/ubuntu/box_bot_ws/src/box_bot_pkg/install/box_bot_pkg/share/box_bot_pkg/meshes/textures/lambert3_baseColor.png
+[2.161s] -- Installing: /home/ubuntu/box_bot_ws/src/box_bot_pkg/install/box_bot_pkg/share/box_bot_pkg/meshes/sensors
+[2.161s] -- Installing: /home/ubuntu/box_bot_ws/src/box_bot_pkg/install/box_bot_pkg/share/box_bot_pkg/meshes/sensors/realsense.dae
+[2.161s] -- Installing: /home/ubuntu/box_bot_ws/src/box_bot_pkg/install/box_bot_pkg/share/box_bot_pkg/meshes/sensors/rplidartexture.png
+[2.161s] -- Installing: /home/ubuntu/box_bot_ws/src/box_bot_pkg/install/box_bot_pkg/share/box_bot_pkg/meshes/sensors/rplidar.dae
+[2.167s] -- Installing: /home/ubuntu/box_bot_ws/src/box_bot_pkg/install/box_bot_pkg/share/box_bot_pkg/meshes/cute_cube.blend
+[2.169s] -- Installing: /home/ubuntu/box_bot_ws/src/box_bot_pkg/install/box_bot_pkg/share/box_bot_pkg/models
+[2.169s] -- Installing: /home/ubuntu/box_bot_ws/src/box_bot_pkg/install/box_bot_pkg/share/box_bot_pkg/models/box_bot_meshes_urdf.urdf
+[2.169s] -- Installing: /home/ubuntu/box_bot_ws/src/box_bot_pkg/install/box_bot_pkg/share/box_bot_pkg/models/box_bot.urdf
+[2.169s] -- Installing: /home/ubuntu/box_bot_ws/src/box_bot_pkg/install/box_bot_pkg/share/box_bot_pkg/params
+[2.169s] -- Installing: /home/ubuntu/box_bot_ws/src/box_bot_pkg/install/box_bot_pkg/share/box_bot_pkg/rviz
+[2.169s] -- Installing: /home/ubuntu/box_bot_ws/src/box_bot_pkg/install/box_bot_pkg/share/box_bot_pkg/rviz/urdf_config.rviz
+[2.170s] -- Installing: /home/ubuntu/box_bot_ws/src/box_bot_pkg/install/box_bot_pkg/share/box_bot_pkg/src
+[2.170s] -- Installing: /home/ubuntu/box_bot_ws/src/box_bot_pkg/install/box_bot_pkg/share/box_bot_pkg/worlds
+[2.173s] Invoked command in '/home/ubuntu/box_bot_ws/src/box_bot_pkg/build/box_bot_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/ubuntu/box_bot_ws/src/box_bot_pkg/build/box_bot_pkg

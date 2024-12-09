@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+f78abbee8a5c12356f6736ed06080396 CMakeFiles/box_bot_pkg_uninstall

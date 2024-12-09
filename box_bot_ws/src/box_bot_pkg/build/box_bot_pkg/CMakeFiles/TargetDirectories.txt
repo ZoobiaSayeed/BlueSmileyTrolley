@@ -1,0 +1,9 @@
+/home/ubuntu/box_bot_ws/src/box_bot_pkg/build/box_bot_pkg/CMakeFiles/install/strip.dir
+/home/ubuntu/box_bot_ws/src/box_bot_pkg/build/box_bot_pkg/CMakeFiles/install/local.dir
+/home/ubuntu/box_bot_ws/src/box_bot_pkg/build/box_bot_pkg/CMakeFiles/install.dir
+/home/ubuntu/box_bot_ws/src/box_bot_pkg/build/box_bot_pkg/CMakeFiles/list_install_components.dir
+/home/ubuntu/box_bot_ws/src/box_bot_pkg/build/box_bot_pkg/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/box_bot_ws/src/box_bot_pkg/build/box_bot_pkg/CMakeFiles/edit_cache.dir
+/home/ubuntu/box_bot_ws/src/box_bot_pkg/build/box_bot_pkg/CMakeFiles/test.dir
+/home/ubuntu/box_bot_ws/src/box_bot_pkg/build/box_bot_pkg/CMakeFiles/box_bot_pkg_uninstall.dir
+/home/ubuntu/box_bot_ws/src/box_bot_pkg/build/box_bot_pkg/CMakeFiles/uninstall.dir

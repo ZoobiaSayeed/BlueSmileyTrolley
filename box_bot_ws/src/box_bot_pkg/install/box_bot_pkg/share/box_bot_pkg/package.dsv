@@ -1,0 +1,5 @@
+source;share/box_bot_pkg/local_setup.bash
+source;share/box_bot_pkg/local_setup.dsv
+source;share/box_bot_pkg/local_setup.ps1
+source;share/box_bot_pkg/local_setup.sh
+source;share/box_bot_pkg/local_setup.zsh
